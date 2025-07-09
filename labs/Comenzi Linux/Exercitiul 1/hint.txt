@@ -1,0 +1,1 @@
+hint : folosește un pipeline pentru a afla o linie , iar pentru restul flag-ului, folosește comanda cut
