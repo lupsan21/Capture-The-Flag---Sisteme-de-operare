@@ -1,0 +1,1 @@
+hint : colosește comanda find cu opțiunea -exec

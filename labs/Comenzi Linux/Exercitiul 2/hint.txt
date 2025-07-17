@@ -1,0 +1,1 @@
+hint : folosește comenzile file,cut & tr

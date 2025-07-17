@@ -1,0 +1,1 @@
+hint: folosește comanda sha1sum ( man sha1sum )

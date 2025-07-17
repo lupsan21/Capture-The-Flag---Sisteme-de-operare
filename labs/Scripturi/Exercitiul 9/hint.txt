@@ -1,0 +1,1 @@
+hint: folosește comanda chmod ( man chmod )

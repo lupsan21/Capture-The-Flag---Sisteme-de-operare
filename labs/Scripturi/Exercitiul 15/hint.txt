@@ -1,0 +1,1 @@
+hint: folosește comanda base64 ( man base64 )

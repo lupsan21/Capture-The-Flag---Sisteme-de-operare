@@ -1,0 +1,1 @@
+Un director corrupted/ conține 500 de fișiere .log care par ilegibile. Unul dintre ele conține o linie cu flag-ul ascuns într-un comentariu de cod shell (ex: # flag is here CTF{...}), dar restul fișierului este plin de caractere aleatorii.

@@ -1,0 +1,1 @@
+Scrie un script Bash care să parcurgă un set de 40 de fișiere binare generate aleatoriu și să detecteze dacă în vreunul dintre ele se află un „flag” ascuns.

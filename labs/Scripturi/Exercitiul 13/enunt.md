@@ -1,0 +1,1 @@
+Fișierul `binary_dump.txt` conține un șir binar lung (0 și 1). Exact un șir de 8 biți reprezintă codul ASCII pentru începutul flagului: `C`. Găsește acel octet și extrage flagul complet din poziția respectivă sub forma CTF{...}.

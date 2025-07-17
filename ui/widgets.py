@@ -3,7 +3,6 @@
 import tkinter as tk
 from tkinter import ttk
 
-# Paletă de culori pentru temă
 PALETTE = {
     "background": "#1e1e1e",
     "foreground": "#ffffff",

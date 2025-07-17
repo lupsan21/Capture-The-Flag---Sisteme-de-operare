@@ -1,0 +1,4 @@
+username=admin
+password=1234
+flag=hidden_value
+sessionid=xyz

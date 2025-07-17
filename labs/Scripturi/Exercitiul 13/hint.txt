@@ -1,0 +1,1 @@
+hint: folosește comanda xxd sau bash + cut ( man bash )
